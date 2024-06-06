@@ -1,0 +1,31 @@
+,Source of drinking water,child's weight(in kgs)(one decimal),Caste,Mother's age at first birth,wealth index,body mass index,mother's height,Toilet Facility,number of living children,sex of household head,Mother's Occupation,Father's Education,Father's Occupation,sex of child,child's height(in cms)(one decimal),currently in union,immunization,mother's weight,state,index to birth history,Area,Religion,months of bf,mothers_bmi
+4,Improved,50.0,OBC,20-29,Middle,2111.0,1489.0,Improved,2.0,Male,unemployed,Secondary education,self employed,Male,558.0,Currently married,Not immunized,468.0,East_India,1.0,Urban,Muslim,<24,2.1
+19,Improved,51.0,SC,30-39,Richest,2160.0,1556.0,Improved,1.0,Female,unemployed,Secondary education,self employed,Male,583.0,Currently married,Not immunized,523.0,North_India,1.0,Urban,Hindu,<24,2.2
+27,Improved,84.0,OBC,20-29,Richer,1999.0,1552.0,Improved,2.0,Male,household,Secondary education,Rgri,Female,741.0,Currently married,Not immunized,482.0,Central_India,1.0,Rural,Hindu,<24,2.0
+47,Improved,37.0,OBC,20-29,Richest,2584.0,1520.0,Improved,1.0,Male,self employed,Higher education,self employed,Female,542.0,Currently married,Not immunized,597.0,East_India,1.0,Rural,Hindu,<24,2.6
+76,Improved,89.0,SC,20-29,Poorer,1657.0,1444.0,Improved,2.0,Male,unemployed,Secondary education,services,Male,702.0,Currently married,Not immunized,346.0,East_India,1.0,Rural,Hindu,<24,1.7
+77,Improved,114.0,SC,20-29,Poorest,2003.0,1522.0,No facility,6.0,Female,unemployed,No education,household,Male,867.0,Currently married,Not immunized,464.0,East_India,1.0,Rural,Hindu,<24,2.0
+80,Improved,140.0,OBC,30-39,Richest,2086.0,1524.0,Improved,1.0,Male,professional,Higher education,professional,Female,875.0,Currently married,Not immunized,485.0,NorthEast_India,1.0,Rural,Hindu,>24,2.1
+140,Improved,79.0,OBC,<20,Poorer,1728.0,1505.0,No facility,1.0,Male,unemployed,No education,self employed,Male,752.0,Currently married,Not immunized,392.0,East_India,1.0,Rural,Hindu,<24,1.7
+158,Improved,144.0,OBC,20-29,Poorest,2177.0,1645.0,Improved,6.0,Male,unemployed,No education,household,Female,814.0,Currently married,Not immunized,589.0,North_India,2.0,Rural,Muslim,>24,2.2
+159,Improved,101.0,OBC,<20,Middle,2164.0,1497.0,Improved,4.0,Male,household,Secondary education,services,Male,871.0,Currently married,Not immunized,485.0,West_India,1.0,Rural,Hindu,<24,2.2
+178,Improved,107.0,Others,20-29,Poorer,1767.0,1677.0,Improved,2.0,Male,professional,Primary education,other,Female,721.0,Currently married,Not immunized,497.0,South_India,1.0,Urban,Hindu,<24,1.8
+183,Improved,89.0,Others,20-29,Poorer,2752.0,1573.0,Improved,3.0,Male,unemployed,Secondary education,self employed,Female,784.0,Currently married,Not immunized,681.0,North_India,1.0,Rural,Muslim,<24,2.8
+200,Improved,45.0,ST,<20,Poorest,1849.0,1574.0,No facility,1.0,Male,unemployed,Secondary education,household,Female,638.0,Currently married,Not immunized,458.0,Central_India,1.0,Rural,Hindu,<24,1.8
+225,Improved,92.0,SC,20-29,Poorer,2214.0,1311.0,Unimproved,1.0,Male,household,Secondary education,household,Male,868.0,Currently married,Not immunized,381.0,NorthEast_India,1.0,Rural,Hindu,>24,2.2
+237,Improved,153.0,Others,20-29,Richer,2343.0,1578.0,Improved,2.0,Male,unemployed,Secondary education,services,Male,863.0,Currently married,Not immunized,584.0,South_India,1.0,Urban,Hindu,<24,2.3
+244,Improved,73.0,SC,20-29,Poorer,1685.0,1476.0,Unimproved,1.0,Male,household,Secondary education,Rgri,Female,686.0,Currently married,Not immunized,367.0,NorthEast_India,1.0,Rural,Hindu,<24,1.7
+254,Improved,114.0,OBC,20-29,Poorest,2479.0,1573.0,No facility,2.0,Male,unemployed,Secondary education,household,Male,852.0,Currently married,Not immunized,614.0,West_India,1.0,Rural,Hindu,<24,2.5
+258,Unimproved,148.0,OBC,20-29,Middle,2300.0,1586.0,Unimproved,4.0,Male,unemployed,Primary education,household,Female,847.0,Currently married,Not immunized,579.0,Central_India,1.0,Rural,Hindu,>24,2.3
+275,Improved,81.0,Others,<20,Richer,1838.0,1465.0,Improved,3.0,Male,unemployed,Secondary education,household,Female,676.0,Currently married,Not immunized,395.0,North_India,1.0,Rural,Hindu,<24,1.8
+277,Improved,88.0,ST,<20,Poorer,2097.0,1538.0,No facility,3.0,Male,household,Primary education,services,Male,748.0,Currently married,Not immunized,496.0,North_India,1.0,Rural,Hindu,<24,2.1
+314,Improved,104.0,ST,<20,Middle,2006.0,1475.0,Improved,2.0,Male,other,Secondary education,other,Female,773.0,Currently married,Not immunized,437.0,South_India,1.0,Rural,Hindu,>24,2.0
+316,Improved,118.0,OBC,<20,Poorest,1978.0,1609.0,Other,2.0,Male,unemployed,Secondary education,other,Male,892.0,Currently married,Not immunized,512.0,East_India,1.0,Urban,Hindu,>24,2.0
+345,Improved,88.0,ST,20-29,Poorer,2164.0,1520.0,Other,2.0,Male,unemployed,Secondary education,household,Female,886.0,Currently married,Not immunized,500.0,NorthEast_India,1.0,Rural,Hindu,>24,2.2
+355,Improved,91.0,Others,<20,Poorest,2161.0,1594.0,Unimproved,4.0,Male,unemployed,No education,services,Female,764.0,Currently married,Not immunized,549.0,North_India,1.0,Urban,Hindu,>24,2.2
+425,Improved,62.0,SC,20-29,Richer,1969.0,1392.0,Other,2.0,Female,unemployed,Secondary education,household,Female,611.0,Currently married,Not immunized,382.0,Central_India,1.0,Rural,Hindu,<24,2.0
+426,Improved,92.0,OBC,20-29,Middle,2203.0,1489.0,Improved,4.0,Female,unemployed,Secondary education,self employed,Male,720.0,Currently married,Not immunized,489.0,Central_India,1.0,Rural,Hindu,<24,2.2
+431,Improved,106.0,SC,20-29,Poorer,1835.0,1513.0,No facility,1.0,Female,unemployed,Primary education,household,Male,842.0,Currently married,Not immunized,420.0,Central_India,1.0,Rural,Hindu,<24,1.8
+502,Improved,61.0,OBC,<20,Richer,1809.0,1511.0,Improved,2.0,Male,unemployed,Primary education,services,Male,652.0,Currently married,Not immunized,413.0,East_India,1.0,Rural,Muslim,<24,1.8
+519,Unimproved,81.0,SC,20-29,Richer,1911.0,1453.0,Improved,1.0,Male,unemployed,Higher education,services,Female,751.0,Currently married,Not immunized,404.0,North_India,1.0,Rural,Hindu,<24,1.9
+537,Improved,120.0,ST,20-29,Poorer,2496.0,1510.0,Improved,2.0,Male,household,Secondary education,household,Female,865.0,Currently married,Not immunized,569.0,NorthEast_India,1.0,Rural,Christian,>24,2.5
